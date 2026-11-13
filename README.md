@@ -1,12 +1,12 @@
-# ChinAI3 · Android
+# Aaim · Android
 
 会看屏幕、会点按钮的安卓 AI 助手 —— 单文件介绍页。
 
-**在线预览：** https://lugui906.github.io/chinai3a/
+**在线预览：** https://lugui906.github.io/aaima/
 
 ## 这是什么
 
-本仓库只存放 **ChinAI3 安卓版** 的静态介绍页，用于 GitHub Pages 托管。
+本仓库只存放 **Aaim 安卓版** 的静态介绍页，用于 GitHub Pages 托管。
 页面是**单个 `index.html` 文件**，内联全部 CSS / JS 与图标，无任何外部依赖，可离线打开。
 
 ## 下载
