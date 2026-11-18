@@ -13,13 +13,13 @@
 
 | 项目 | 值 |
 |---|---|
-| 版本 | v1.0.26（arm64-v8a） |
-| 大小 | 28.4 MB（蓝奏云页面显示） |
+| 版本 | v1.0.32（arm64-v8a） |
+| 大小 | 28.4 MB（29,814,538 字节，蓝奏云页面显示 29.8 M） |
 | 包名 | `com.chinai3.android` |
 | 系统要求 | Android 8.0+（API 26），仅 64 位 ARM |
-| 下载地址 | https://wwaye.lanzoue.com/iBo3G4f8l1je |
-| 提取密码 | `axd6` |
-| 文件名 | `ChinAI3-1.0.26-arm64.apk` |
+| 下载地址 | https://wwaye.lanzoue.com/iP8kJ4gf24zc |
+| 提取密码 | `2r3y` |
+| 文件名 | `ChinAI3-1.0.32-arm64.apk` |
 
 ## 本地查看
 
